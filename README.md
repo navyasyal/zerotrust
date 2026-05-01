@@ -79,7 +79,7 @@ REACT_APP_API_URL=http://localhost:5000/api
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/zero_trust_fixed.git
+git clone
 cd zero_trust_fixed
 
 # 2. Build Docker images
